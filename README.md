@@ -1,10 +1,10 @@
 # Shakespeare-Sonnets
 
 In the JSON, each sonnet has the following:
-"number": The sonnet number according to the original quarto publication;
-"modern": A modern edited version from the [Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/);
-"quarto": The original spelling from the 1609 quarto, taken from the University of Victoria's [Internet Shakespeare Editions](https://internetshakespeare.uvic.ca/doc/Son_Q1/complete/index.html);
-"first_line": The first line of each sonnet from the Folger edition
+- "number": The sonnet number according to the original quarto publication;
+- "modern": A modern edited version from the [Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/);
+- "quarto": The original spelling from the 1609 quarto, taken from the University of Victoria's [Internet Shakespeare Editions](https://internetshakespeare.uvic.ca/doc/Son_Q1/complete/index.html);
+- "first_line": The first line of each sonnet from the Folger edition
 
 Notes:
 - The Folger edition uses "-èd" when that ending is pronounced and "-ed" otherwise.
